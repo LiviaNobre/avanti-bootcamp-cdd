@@ -1,0 +1,17 @@
+variavel,descricao,tipo,subtipo
+survived,Binário indicando se o passageiro sobreviveu ou não,qualitativa,nominal
+pclass,Tipo de classe da passagem - representa também a classe social do pasageiro,qualitativa,ordinal
+sex,Sexo dos passageiros,qualitativa,nominal
+age,Idade,quantitativa,discreta
+sibsp,"Quantidade de irmãos, meio-irmãos, marido e mulher",quantitativa,discreta
+parch,"Quantidade de filhos e enteados, pai ou mãe",quantitativa,discreta
+fare,Valor da passagem,quantitativa,continua
+embarked,Portão de embarque,qualitativa,nominal
+class,Classe,qualitativa,ordinal
+who,"Categoriza o passageiro em homem, mulher e criança",qualitativa,nominal
+adult_male,Indicador se o passageiro é um homem adulto,qualitativa,nominal
+deck,Sessão do navio,qualitativa,nominal
+embark_town,Cidade de embarque,qualitativa,nominal
+embark_town,Cidade de embarque,qualitativa,nominal
+alive,Coluna indicando se o passageiro está vivo,qualitativa,nominal
+alone,Coluna indicando se o passageiro está sozinho no navio,qualitativa,nominal
